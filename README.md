@@ -30,3 +30,5 @@ Proyek ini menggunakan ESP32 untuk membaca data dari sensor suhu DHT22 dan modul
 - Sensor DHT22: Membaca suhu dan kelembapan secara berkala.
 - Tampilan Data: Memperbarui layar OLED dengan data GPS, suhu, kelembapan, dan status LED terbaru.
 - Kontrol LED: Menerima pesan MQTT untuk menyalakan atau mematikan LED berdasarkan perintah yang diterima.
+## Tampilan Aplikasi Android:
+![1720455666922](https://github.com/Achmad-Dimyati/GPSTracking_DHT22_LEDControll_MQTT/assets/167073850/ffe0e5a4-63e0-4083-a656-4b3b1999a90e)
